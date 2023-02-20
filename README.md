@@ -1,6 +1,7 @@
 # login_bloc
 
-A new Flutter project.
+![flutter_login](https://user-images.githubusercontent.com/43721794/220087606-f24fdc2e-370a-4f73-a1ed-5f245387fd53.gif)
+
 
 ## Getting Started
 
